@@ -15,7 +15,7 @@ body {
 main {
   width: 80%;
   background-color: hsl(0, 100%, 74%);
-  background-image: url(/bg-intro-desktop.png);
+  background-image: url(bg-intro-desktop.png);
   height: 90%;
   display: flex;
   justify-content: center;
@@ -131,7 +131,7 @@ a:hover {
     
   main {
     width: 100%;
-    background-image: url(/bg-intro-mobile.png);
+    background-image: url(bg-intro-mobile.png);
   
   }
   .container {
